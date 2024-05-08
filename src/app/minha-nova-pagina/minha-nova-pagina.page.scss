@@ -1,0 +1,116 @@
+ion-content{
+    --background:white;
+
+}
+
+h1{
+    
+height: 38px;
+top: 625px;
+left: 20px;
+gap: 0px;
+opacity: 0px;
+font-size:32px ;
+}
+
+h2{
+    font-family: Istok Web;
+font-size: 24px;
+font-weight: 700;
+line-height: 34.55px;
+text-align: left;
+color:#144273;
+}
+
+p{
+color:#144273;
+}
+
+.Pai{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+}
+
+.filho{
+    width: 44px;
+height: 44px;
+top: 34px;
+left: 345px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.perfil img{
+  
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+
+}
+
+.tenisis{
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+}
+
+.baguiBonito{
+    width: 107.23px;
+height: 62.45px;
+top: 171.97px;
+left: 153px;
+gap: 0px;
+opacity: 0px;
+background: #E1E0E0;
+
+width: 100px;
+height: 100px;
+border-radius: 16px;
+opacity: 0px;
+
+;
+
+}
+#tenis1{
+    background: #FFF05E;
+    width: 100px;
+    height: 100px;
+    border-radius: 16px;
+    opacity: 0px;
+
+}
+
+.share{
+    background: #144273;
+    width: 26px;
+    height: 26px;
+  padding: 15px;
+    opacity: 0px;
+    border-radius: 50%;
+}
+
+.shop{
+    background: #38EF7D;
+    width: 26px;
+    height: 26px;
+   padding: 15px;
+    opacity: 0px;
+    border-radius: 50%;
+}
+
+footer{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.final{
+    display:flex;
+    justify-content: space-between;
+ 
+
+    padding: 10px;
+}
